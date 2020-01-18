@@ -1,0 +1,88 @@
+
+#pagewrapper {
+
+	margin: 30px;
+}
+.header {
+	padding: 100px;
+	margin: 20px;
+	background-color: tan;
+}
+.text_header {
+	float:  left;
+	margin-left: 40px;
+	font-weight: bold; 
+	font-size: 17px; 
+}
+
+.logo_header {
+	float:  right;
+	position: absolute;
+    top: 65px;
+    right: 90px;
+}
+
+#navigation_box {
+	background-color: indianred;
+	text-align: right;
+	margin: 20px;
+	padding: 10px;
+	font-weight: bold; 
+	font-size: 30px;
+}
+
+a {
+	margin: 7px;
+	color:  white;
+}
+h1 {
+	font-size: 100px;
+	color: black;
+	text-align: center;
+}
+
+#big_picture {
+	margin:  20px;
+	text-align: center;
+}
+
+.row1 {
+	float: left;
+	width: 35%;
+	height: auto;
+	text-align: center;
+	margin-left: 180px;
+	margin-right: 10px;
+}
+.row2 {
+	float: right;
+	width: 35%;
+	height: auto;
+	text-align: center;
+	margin-right: 180px;
+
+h2 {
+	font-size: 20px;
+	font-weight: bold;
+}
+
+
+
+.footer_logo {
+	text-align: center;
+}
+
+.footer_text {
+	font-size: 20px;
+	font-weight: bold;
+	text-align: center;
+}
+
+
+
+
+
+
+
+
+
